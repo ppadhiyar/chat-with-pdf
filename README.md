@@ -2,9 +2,6 @@
 
 A RAG (Retrieval Augmented Generation) app that lets you upload any PDF and ask questions about it. Built with LangChain, OpenAI, FAISS, and Streamlit.
 
-<!-- Add a demo GIF here after recording one -->
-<!-- ![Demo](demo.gif) -->
-
 ## Features
 
 - Upload any PDF file
